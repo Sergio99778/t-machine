@@ -12,7 +12,6 @@ const defaultTodos = [
 ];
 
 function App() {
-
   return (
     <>
       <TodoCounter total={1} completed={0}/>
